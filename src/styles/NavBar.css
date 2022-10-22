@@ -1,0 +1,22 @@
+.NavBarClass {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+.NavBarClass ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavBarClass ul li {
+    list-style: none;
+    
+}
+.NavBarClass ul li a {
+    text-decoration: none;
+    color: black;
+}

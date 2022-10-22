@@ -1,0 +1,10 @@
+/* .CartwidgetClass {
+    height: 25px;
+} */
+
+.CartWidget {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   /*  height: 50%; */
+}
