@@ -1,0 +1,33 @@
+.nav-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin: 0;  
+    height: 10vh;
+    background-color: #1F2023;
+    border-bottom: 2px solid #28292F;
+    top: 0;
+    margin-bottom: 45px;
+}
+
+a{
+    text-decoration: none;
+    font-weight:400;
+    font-size: 14px;
+    color:rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+a:hover{
+    font-weight: 600;
+    color:rgb(255, 170, 0);
+}
+
+h3 {
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(255, 170, 0);
+}
